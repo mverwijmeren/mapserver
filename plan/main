@@ -5,8 +5,10 @@ postgresql-contrib       # additional facilities for PostgreSQL
 
 libapache2-mod-python    # Apache 2 module that embeds Python within the server
 python-psycopg2          # Python module for PostgreSQL
+postgresql-plpython-9.1  # PL/Python procedural language for PostgreSQL 9.1
 
 libapache2-mod-perl2     # Integration of perl with the Apache2 web server
 libdbd-pg-perl           # Perl DBI driver for the PostgreSQL database server
+postgresql-plperl-9.1    # PL/Perl procedural language for PostgreSQL 9.1
 
 

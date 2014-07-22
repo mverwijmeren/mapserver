@@ -13,7 +13,7 @@ NameVirtualHost *:443
         DocumentRoot /var/www/
 </VirtualHost>
 
-ScriptAlias /cgi-bin/ /var/www/cgi-bin/
+ScriptAlias /cgi-bin/ /usr/lib/cgi-bin/
 
 <Directory /var/www/>
         Options Indexes FollowSymLinks MultiViews

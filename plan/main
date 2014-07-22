@@ -16,4 +16,8 @@ libapache2-mod-perl2     # Integration of perl with the Apache2 web server
 libdbd-pg-perl           # Perl DBI driver for the PostgreSQL database server
 postgresql-plperl-9.1    # PL/Perl procedural language for PostgreSQL 9.1
 
-
+cgi-mapserver            # CGI executable for MapServer
+mapserver-bin            # MapServer utilities
+php5-mapscript           # php5-cgi module for MapServer
+python-mapscript         # Python library for MapServer
+libmapscript-perl        # Perl MapServer module

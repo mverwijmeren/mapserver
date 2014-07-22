@@ -1,6 +1,10 @@
 #include <turnkey/base>
 #include <turnkey/lapp>
 
+gdal-bin                 # Geospatial Data Abstraction Library - Utility programs
+python-gdal              # Python bindings to the Geospatial Data Abstraction Library
+libgdal-perl             # Perl bindings to the Geospatial Data Abstraction Library
+
 postgresql-contrib       # additional facilities for PostgreSQL
 
 libapache2-mod-python    # Apache 2 module that embeds Python within the server

@@ -10,7 +10,8 @@ This appliance includes all the standard features in `TurnKey LAPP`_,
 and on top of that:
 
 - `MapServer`_ with the MapScript modules for PHP, Python and Perl.
-- `PostGIS`_, which adds support for geographic objects to PostgreSQL.
+- `PostGIS`_, which adds support for geographic objects to `PostgreSQL`_.
+- Support for PL/Python and PL/Perl in PostgreSQL.
 - `GDAL/OGR`_, a translator library for raster and vector geospatial
   data formats.
 
@@ -23,4 +24,5 @@ Credentials *(passwords set at first boot)*
 .. _MapServer: http://mapserver.org
 .. _TurnKey LAPP: http://www.turnkeylinux.org/lapp
 .. _PostGIS: http://postgis.refractions.net
+.. _PostgreSQL: http://www.postgresql.org
 .. _GDAL/OGR: http://www.gdal.org

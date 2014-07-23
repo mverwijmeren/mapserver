@@ -11,7 +11,6 @@ and on top of that:
 
 - `MapServer`_ with the MapScript modules for PHP, Python and Perl.
 - `PostGIS`_, which adds support for geographic objects to `PostgreSQL`_.
-- Support for PL/Python and PL/Perl in PostgreSQL.
 - `GDAL/OGR`_, a translator library for raster and vector geospatial
   data formats.
 

@@ -22,7 +22,7 @@
     </head>
 
     <body>
-        <h1>TurnKey LAPP</h1>
+        <h1>TurnKey Mapserver</h1>
         
         <div id="container-1">
             <ul>
@@ -60,8 +60,14 @@
                           (to disable: a2dismod status)
                         </li>
                         <li><a
-                        href="http://www.turnkeylinux.org/lapp">
-                        TurnKey LAPP release notes</a></li>
+                        href="http://www.mapserver.org/documentation.html">
+                        Official MapServer documentation</a></li>
+                        <li><a
+                        href="http://github.com/mapserver/mapserver/wiki">
+                        MapServer wiki</a></li>
+                        <!--<li><a
+                        href="http://www.turnkeylinux.org/mapserver">
+                        TurnKey Mapserver release notes</a></li>-->
                     </ul>
 
                 </div>

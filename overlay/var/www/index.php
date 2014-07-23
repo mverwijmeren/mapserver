@@ -6,7 +6,7 @@
         <meta http-equiv="Content-Style-Type" content="text/css">
         <meta http-equiv="Content-Script-Type" content="text/javascript">
 
-        <title>TurnKey LAPP</title>
+        <title>TurnKey MapServer</title>
         
         <link rel="stylesheet" href="css/ui.tabs.css" type="text/css" media="print, projection, screen">
         <link rel="stylesheet" href="css/base.css" type="text/css">
@@ -22,7 +22,7 @@
     </head>
 
     <body>
-        <h1>TurnKey Mapserver</h1>
+        <h1>TurnKey MapServer</h1>
         
         <div id="container-1">
             <ul>
